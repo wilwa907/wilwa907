@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=wilwa907&style=flat-square&color=blue" alt="Profile Views">
 </div>
 
-<h1>Skills</h1>
+<h1> 👨‍💻 Technical Skills </h1>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
