@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/wilwa907/wilwa907/blob/main/wilw907.svg" width="50%">
+  <img src="https://github.com/wilwa907/wilwa907/blob/main/wilw907.svg" width="100%">
 </p>
 
 <h1>
