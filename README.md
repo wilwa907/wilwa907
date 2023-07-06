@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/wilwa907/wilwa907/blob/main/wilw907.svg" width="100%">
+  <img src="https://github.com/wilwa907/wilwa907/blob/main/images/wilw907.svg" width="100%">
 </p>
 
 <h1>
@@ -10,7 +10,7 @@
 <div id="header" align="center">
   <h1>Social Media</h1>
   <a href="https://www.linkedin.com/in/william-warn/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://github.com/wilwa907/wilwa907/blob/main/images/linkedin.svg" alt="LinkedIn Badge">
   </a>
 </div>
 
